@@ -1,0 +1,5 @@
+interface:
+  display_name: "ORBIT - Context & Knowledge"
+  short_description: "Grounded SOLIDWORKS context and guidance"
+  default_prompt: "Use $solidworks-orbit to answer this SOLIDWORKS question with grounded context and explicit uncertainty."
+

@@ -1,0 +1,15 @@
+{
+  "provider": "clipboard",
+  "model": "",
+  "ollama": {
+    "base_url": "http://127.0.0.1:11434",
+    "timeout_seconds": 180
+  },
+  "openai_compatible": {
+    "base_url": "http://127.0.0.1:1234/v1",
+    "api_key_env": "SOLIDWORKS_COMPANIONS_API_KEY",
+    "timeout_seconds": 180
+  },
+  "knowledge_paths": [],
+  "max_knowledge_characters": 7000
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "PRISM - Science & Evidence"
+  short_description: "Evidence-led materials and engineering research"
+  default_prompt: "Use $solidworks-prism to research this engineering question, compare evidence, and separate facts from assumptions."
+

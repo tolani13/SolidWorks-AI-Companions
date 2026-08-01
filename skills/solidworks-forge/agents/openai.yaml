@@ -1,0 +1,5 @@
+interface:
+  display_name: "FORGE - Engineering & CAD"
+  short_description: "Controlled SOLIDWORKS engineering automation"
+  default_prompt: "Use $solidworks-forge to inspect this CAD task, propose safe SOLIDWORKS actions, and validate the result."
+
